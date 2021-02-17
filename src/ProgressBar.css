@@ -1,0 +1,81 @@
+.app-container {
+  display: flex;
+  margin: 10% 5%;
+  padding: 30px;
+  height: 100%;
+  background: #fafafa;
+  border: 1px solid rgba(0, 0, 0, 0.12)
+}
+
+.chart-container {
+  margin: auto;
+  padding: 20px;
+
+}
+.chart-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #333333;
+}
+.chart-label {
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 10px;
+  color: #333333;
+}
+.progress-chart {
+    display: flex;
+    background-color: #D8D8D8; 
+    height: 8px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+.progress {
+    box-shadow: -1px 0 0 white inset;
+  }
+.progress:last-child {
+    box-shadow: none;
+  }
+.progress-chart-value_1 {
+    background-color:#4B2CFF; 
+  }
+.progress-chart-value_2 {
+    background-color:#9A2CFF; 
+  }
+.progress-chart-value_3 {
+    background-color:#FF892C;  
+  }
+
+.legends-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 30px 0;
+}
+
+.legends-list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 14px 0;
+}
+
+.legend-label {
+  align-items: center;
+  display: flex;
+}
+
+.legend-label-color {
+  width: 12px;
+  height: 12px;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+
+.legend-value {
+  font-size: 16px;
+  font-weight: 400;
+  color: #666666;
+}
+
+
