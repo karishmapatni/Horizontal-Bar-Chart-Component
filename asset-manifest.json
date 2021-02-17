@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Horizontal-Bar-Chart-Component/static/css/main.324cff87.chunk.css",
+    "main.js": "/Horizontal-Bar-Chart-Component/static/js/main.2435b4d8.chunk.js",
+    "main.js.map": "/Horizontal-Bar-Chart-Component/static/js/main.2435b4d8.chunk.js.map",
+    "runtime-main.js": "/Horizontal-Bar-Chart-Component/static/js/runtime-main.1b86e275.js",
+    "runtime-main.js.map": "/Horizontal-Bar-Chart-Component/static/js/runtime-main.1b86e275.js.map",
+    "static/js/2.99222cad.chunk.js": "/Horizontal-Bar-Chart-Component/static/js/2.99222cad.chunk.js",
+    "static/js/2.99222cad.chunk.js.map": "/Horizontal-Bar-Chart-Component/static/js/2.99222cad.chunk.js.map",
+    "index.html": "/Horizontal-Bar-Chart-Component/index.html",
+    "static/css/main.324cff87.chunk.css.map": "/Horizontal-Bar-Chart-Component/static/css/main.324cff87.chunk.css.map",
+    "static/js/2.99222cad.chunk.js.LICENSE.txt": "/Horizontal-Bar-Chart-Component/static/js/2.99222cad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b86e275.js",
+    "static/js/2.99222cad.chunk.js",
+    "static/css/main.324cff87.chunk.css",
+    "static/js/main.2435b4d8.chunk.js"
+  ]
+}
